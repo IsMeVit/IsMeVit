@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 👋 Hi, I’m **Vit**, and I'm a **sophomore IT** in a university in the world. I'm an **Linux user** that i started since early year 2024. 
+- 👋 Hi, I’m **Vit**, and I'm a **sophomore IT** in an university in the world. I'm an **Linux user** that i started since early year 2024. 
 - I’m interested in **Software development** and **Opensource**.
 - I recently built a Website that i can summit my projects in there and you can check it out **[Here](https://ismevit.github.io/)**.
 
