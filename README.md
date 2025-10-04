@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 👋 Hi, I’m **Vit**, and I'm a **Sophomore Computer Science** in an university in the world. I'm an **Fedora user** that i started since early year 2024. 
-- I’m interested in **Software development** and **Open-source**.
+- I’m interested in **Software development** and **DevOps**.
 
 
 
