@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ismevit/ismevit/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/IsMeVit/IsMeVit/output/snake.svg" alt="Snake animation" />
 
 ###
