@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ismevit&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ismevit&locale=en&mode=daily=&hide_border=false&border_radius=5&order=3&theme=dark&background=0D1117&ring=FFFFFF&fire=cc241d&currStreakLabel=cc241d&border=458588" height="150" alt="streak graph" />
 </div>
 <br>
 
