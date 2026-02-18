@@ -1,10 +1,8 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#27CFFC;">Davishh</span></h1>
 <h3 align="center">Computer Science Student From PPIU</h3>
 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ismevit&locale=en&mode=daily=&hide_border=false&border_radius=5&order=3&theme=dark&background=0D1117&ring=FFFFFF&fire=cc241d&currStreakLabel=cc241d&border=458588" height="150" alt="streak graph" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ismevit)](https://git.io/streak-stats)
+ 
 <br>
 
 <div align="center">
