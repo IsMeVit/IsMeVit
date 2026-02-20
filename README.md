@@ -22,7 +22,7 @@
 
 **Frontend & Web**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,vue,nextjs,react,tailwind,html,css&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,nextjs,react,tailwind,html,css&perline=7&theme=dark" />
 </p>
 
 **Logic & Systems**
