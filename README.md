@@ -36,8 +36,12 @@
 </p>
 
 **Tools & Environment**
+
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,vim,vscode&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,vim,vscode&theme=dark" width="210" style="vertical-align: middle;" />
+  <img src="https://media1.tenor.com/m/6m3I1g_WiokAAAAC/fish-spin-sha.gif" width="50" height="50" style="border-radius: 8px;" />
+  <img src="https://media.tenor.com/svdCfTtOYyMAAAAi/kitty-cat-terminal.gif" width="50" height="50" alt="kitty" style="vertical-align: middle; border-radius: 8px;" />
 </p>
 
 ---
