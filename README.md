@@ -68,6 +68,8 @@
   <a href="mailto:ismevitt@gmail.com"><img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=27CFFC" /></a>
 </p>
 
+ <p align="right"> I'm gonna be the Pirate King!</p>
+ 
 <p align="right">
   <img height="80" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif"/>
 </p>
