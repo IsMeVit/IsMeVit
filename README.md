@@ -63,8 +63,8 @@
 ### 04 . Connectivity
 <p align="left">
   <a href="https://daradevit.site"><img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=googlechrome&logoColor=27CFFC" /></a>
-  <a href="https://www.instagram.com/_pichsovandaradevit"><img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=27CFFC" /></a>
-  <a href="https://discord.com/users/1370760375368286292"><img src="https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=27CFFC" /></a>
+  <a href="https://www.instagram.com/dxvizenqq_"><img src="https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=27CFFC" /></a>
+  <a href="https://t/me/Ismevit_io"><img src="https://img.shields.io/badge/Telegram-121212?style=for-the-badge&logo=telegram&logoColor=27CFFC" /></a>
   <a href="mailto:ismevitt@gmail.com"><img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=27CFFC" /></a>
 </p>
 
