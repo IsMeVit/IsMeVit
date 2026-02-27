@@ -32,14 +32,14 @@
 
 **Data & Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,prisma&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma&perline=7&theme=dark" />
 </p>
 
 **Tools & Environment**
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,vim,vscode&theme=dark" width="210" style="vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=docker,github,git,vim,neovim,vscode&theme=dark" width="210" style="vertical-align: middle;" />
   <img src="https://media1.tenor.com/m/6m3I1g_WiokAAAAC/fish-spin-sha.gif" width="50" height="50" style="border-radius: 8px;" />
   <img src="https://media.tenor.com/svdCfTtOYyMAAAAi/kitty-cat-terminal.gif" width="50" height="50" alt="kitty" style="vertical-align: middle; border-radius: 8px;" />
 </p>
@@ -49,7 +49,7 @@
 ### 03 . Analytics
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=ismevit&theme=dark&background=0D111700&ring=27CFFC&fire=27CFFC&currStreakLabel=27CFFC&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=ismevit&theme=dark&background=0D111700&ring=27CFFC&fire=CC241D&currStreakLabel=27CFFC&border=F5F0F6" height="150" />
 </div>
 
 <br />
