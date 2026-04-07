@@ -2,7 +2,7 @@
   <h1 align="center">Hey, I'm <span style="color:#27CFFC;">Davishh</span></h1>
   
   <p>
-    <kbd>⠴ Computer Science Degree</kbd> • <kbd>⠴ Full-Stack Developer</kbd> • <kbd>⠴ Anime Nerd</kbd>
+    <kbd>⠴ Computer Science Degree</kbd> • <kbd>⠴ Full-Stack Developer</kbd> • <kbd>⠴ Music Enthusiast</kbd>
   </p>
   
 </div>
