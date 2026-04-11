@@ -49,7 +49,7 @@
 ### 03 . Analytics
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=ismevit&theme=dark&background=0D111700&ring=27CFFC&fire=CC241D&currStreakLabel=27CFFC&border=F5F0F6" height="150" />
+  <img src="https://streak-stats.demolab.com?user=daradavit&theme=dark&background=0D111700&ring=27CFFC&fire=CC241D&currStreakLabel=27CFFC&border=F5F0F6" height="150" />
 </div>
 
 <br />
