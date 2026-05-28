@@ -13,7 +13,7 @@
 > I am a passionate Computer Science student focused on building clean, functional, and user-centric applications. Currently honing my skills in modern web frameworks and systems programming.
 
 - ⚡ **Current Focus:** Crafting high-performance apps with **Next.js** & **Prisma**.
-- 🔭 **In the Works:** Deep diving into **Low-level logic** with **C++** and **C#**.
+- 🔭 **In the Works:** Deep diving into **Low-level logic** with **C** and **C++**.
 - 🚢 **Philosophy:** Shipping code that solves problems, one commit at a time.
 
 ---
